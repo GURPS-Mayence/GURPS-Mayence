@@ -40,10 +40,38 @@ Wenn andere welten Seelen haben gilt: Good for them, aber alles was seelen angre
 Und ich versuche das dies der einzige punkt ist wo ich euch meine meinung reinwürge.
 
 
+Low Propability Verse:
+Magitek ist eine "low propability timeline" was heißt das dort sehr unwahrscheinliche dinge passieren und das 
+normalerweise Seltene Häufig ist. Das hat weniger mit den Spielern zu tun als einfach nur zu erklären warum so viel
+seltsame sachen passieren und Weirdness Magnet so übertrieben teilweise ist.
+
+
 
 Hausregeln:
-Punkte werden in zwei Kategorien Verteilt:
+
+Punkte Verteilung:
+Punkte werden in zwei Kategorien Verteilt
 In Charakter (IC) und Bound
 IC Punkte sind an nichts gebunden und können verwendet werden wie man will.
 Bound Punkte sind entweder in einen Skill zu stecken oder dürfen nur verwendet um eine ihnen zugeteilte Advvantage/Disafvantage (ab)zukaufen.
 Bound punkte kommen auch in lernstunden(lh), so das wenn genügend lh erreicht sind(200) man sie gegen einen punkt eintauschen kann.
+
+Blind Teleport:
+Normalerweise ist mit Magie Blind teleportieren unmöglich, aber ich erlaube es mit einem -10 (nicht -6 wie bisher) 
+möglich auf die andere seite einer Wand zu teleportieren wo man nicht weiß was dorthinter ist.
+
+Wildcard Abilities:
+Ab jetzt heißt es per default: wenn die power exotik (Alienkopf) oder Supernatural (Blitz) ist, muss sie
+Genisch sein und/oder teil einer entsprechenden Power (bsp: Danger sense ist Genisch oder teil der ESP Power)
+
+Bonus Points durch geschichten:
+Der Main-Gamemaster, Creator und defacto Gott des Magitek universums mag es geschichten zu lesen die in dem Universum spielen.
+Wer eine solche geschichte schreibt kann sich bonuspunkte verdienen. 
+Je nachdem wie gut eine geschichte ist gibt es entsprechend viele IC Punkte für den Protagonisten der Geschichte 
+(oder nach wahl falls der Protagonist ein NPC ist).
+Bewertung werden hochgradig Subjektiv sein, in dem sinne das GM-Pandering (den GM geschichten schreiben die er mag) mehr
+punkte bringt als geschichten die mit selber sorgfalt geschrieben sind die der GM nicht mag, das wird aber meistens nur
+1 Punkt unterschied ausmachen.
+Taboo themen:
+eigentlich keine, versucht es aber fsk 12-16 zu halten.
+

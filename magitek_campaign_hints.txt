@@ -1,3 +1,21 @@
+Charakter Kreation:
+Abusive Power Levels:
+ * Für skills ist ein SL von 25 (nach B172) Abusive.
+ * Bei Erschaffung des Chars darf kein Skill über 20 sein.
+ * Für Advantages habe ich leider kein Objektives maß, 
+   außer das exotische und super Advantages definitiv gm approval brauchen.
+
+Hintergrund Geschichten:
+Objektive Messwerte einer Hintergrundgeschichte sind
+ * mindestens 5 Sätze über die letzten 10 Jahre des Lebens des Chars.
+ * eine liste von mindestens 5 Charaktereigenschaften die der Charakter hat oder explizit nicht hat.
+ * 1 Quirk (zählt zum Quirk Limit)
+Charaktere die das nicht haben werden nicht zugelassen.
+
+Neue Charakter Sheets müssen mindestens 1 Tag vor der Session an den GM geschickt werden. 
+
+
+
 Geons vs Psions:
 Geon ist Spieltechnisch einfach nur ein anderer name für Psioniker.
 Tiefer gehend: Psionische Fähigkeiten Stammen vom Geist, was natürlich nicht immer Passt. 
@@ -74,4 +92,3 @@ punkte bringt als geschichten die mit selber sorgfalt geschrieben sind die der G
 1 Punkt unterschied ausmachen.
 Taboo themen:
 eigentlich keine, versucht es aber fsk 12-16 zu halten.
-

@@ -1,7 +1,7 @@
 Charakter Kreation:
 Abusive Power Levels:
- * Für skills ist ein SL von 25 (nach B172) Abusive.
  * Bei Erschaffung des Chars darf kein Skill über 20 sein.
+ * Maximum SL für Skills ist Attribut+10.
  * Für Advantages habe ich leider kein Objektives maß, 
    außer das exotische und super Advantages definitiv gm approval brauchen.
 

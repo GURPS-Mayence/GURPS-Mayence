@@ -1,0 +1,19 @@
+* [General] für Themen die alle etwas angehen, so wie dieses.
+
+* [Magitek] für Beide Magitek (Fr+Sa) Gruppen.
+    Sind für Informationen zur Lore oder Fragen zum Universum.
+
+* [Freitag] Für die Freitags Gruppe.
+    Termine, Fragen, Infos und zu-/absagen für Sessions.
+
+* [Samstag] Für die Samstags Gruppe.
+    Termine, Fragen, Infos und zu-/absagen für Sessions.
+
+* [Prynose] Für die Donnerstags Gruppe und das Setting Generell.
+    Termine, Fragen, Infos und zu-/absagen für Sessions.
+
+* [GM] Im zusammenhang mit einem der anderen Tags ist das um den GM der Gruppe angesprochen
+    Diese Tag ist dazu da um GM Unterstützung anzufordern, egal welches Themengebiet.
+
+* [Gero] Das Tag um Gero (GM von Magitek und Gründer von GURPS-Uni-Mainz) speziell anzusprechen.
+    Dieses Tag ist da für Char Entwicklungs und technische Hilfe zu bekommen.

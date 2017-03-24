@@ -1,0 +1,39 @@
+Life is hard ist eine GURPS-Welt, die auf einer alternativen Erde spielt. Der Einfachheit halber wird unsere heutige Geographie angenommen. Es gibt also 7 Kontinente:
+
+Ihdurchma (Europa)
+Zetterm (Asien)
+Zetdelle (Afrika)
+Insteylien (Australien)
+?? (Südamerika)
+?? (Nordamerika)
+?? (Antarktis) 
+
+Kontinent ungleich Kampange. Die möglichen Kampangen sind:
+
+## Neutschland (Ihdurchma): 
+Zentrum Ihdurchmas, am weitesten fortgeschrittenes Land des Kontinents. Programmieren ist eine höhere Kunst, KIs sind alle böse, die Bürokratie blüht und ein Monarch herrscht über das Land. Menschen, die zu sehr von der Norm abweichen, werden als "unrein" angesehen und verschwinden schnell von der Bildfläche.
+Im Prinzip Deutschland ohne zwei verlorene Weltkriege mit kostitutioneller Monarchie, Nationalismus und etwas religiösem Fanatismus. Slice of Life eben.
+
+## Jubergien (Ihdurchma):
+Religiöses Zentrum Ihdurchmas. Während Unreine in Neutschland spurlos verschwinden, werden sie in Jubergien gerne auf offener Straße hingerichtet. Der König Jubergiens hört nur auf den Ultrapapst und seine eigenen moralischen Vorstellungen. Letztere sagen ihm, dass jede Art von Böshaftigkeit nur durch Verbrennungen ausgetrieben werden kann, aber eigentlich ja alle seine treuen Untertanen gut sind. Sein Versuch, Unglück zu verbieten, ist gescheitert, da die Gefängnisse innerhalb von wenigen Stunden voll waren und die Polizei mit neuen Häftlingen Schlange stand. Aber er lässt sich nicht beirren und mit der Naivität eines Fünfjährigen weiter jeden verfolgen, der aus seiner Sicht kein guter Mensch ist. Ziemlich mies, wenn man als unbescholtener Bürger dann eines Tages aufwacht und feststellt, dass man nicht nur zu spitze Ohren hat, sondern auch noch Magie wirken kann. Lauf.
+
+## Ausdasm (Zetterm):
+Eine aufstrebene Weltmacht, technologisch Neutschland sogar vorraus, militärisch aber weit unterlegen. Ein Glück, dass Neutschland soweit weg ist! "Unreine", wie Neutsche sie nennen würden, sind hier einfach normale Bürger. Programmieren bleibt eine hohe Kunst, aber Ausder sind einfach besser darin als Neutsche. Man pflegt auch diplomatischen Kontakt mit den Androiden. Die Führungsriege Ausdasms versucht sich im Wesentlichen auf den Tag vorzubereiten, an dem Neutschland entscheidet, doch mal eine Invasion zu starten. Aufgrund ihres technischen Fortschritts könnte man als Neutscher natürlich leicht annehmen, dass sie, wenn sie sich überlegen fühlen, dann selbst in die Offensive gehen würden. Was ist also naheliegender, als Leute beim Feind einzuschleusen, um sicherzustellen, dass das nicht passiert?
+
+## Guk-Grade ([Südamerika]):
+Wer hier jemanden "unrein" nennt, wird selbst "Reini" geschimpt und muss sich vor Gericht wegen "Reinismus" verantworten. Die Vielfalt in [Südamerika] kennt keine Grenzen und die fortgeschrittenen Zivilisationen leben im Einklang mit der Natur. Magie ist bekannt und wird respektiert. Und alles an Magie auf dem Kontinent wird vom Oberältesten kontrolliert, der in der Hauptstadt von Guk-Grade residiert. Manche munkeln, er sei älter als die Zeit selbst, andere schätzen ihn auf 80+. Wie in jeder Zivilisation gibt es natürlich auch hier Mord und Totschlag, aber wer seine Magie missbraucht oder ein schlimmes Verbrechen begeht, bekommt sie entzogen. Dieses System funktioniert sehr gut, allerdings fragen sich manche, was wohl passiert, wenn der Oberälteste das Zeitliche segnet. Dieser macht sich jedoch nicht darum Gedanken, sondern überlegt mit der Regierung von Guk-Grade, wie man einen Krieg mit den Reinisten, sollte er eines Tages kommen, gewinnen oder zumindest überleben kann. Wer Lust auf Magie hat, ohne dafür direkt verbrannt zu werden, wird sich in Guk-Grade wohler fühlen als in Jubergien.
+
+## Nainson (Zetterm):
+Eine Inselgruppe in westlichen Zetterm, in dem es keine nennenswerte Rohstoffe, dafür aber Dämonen und andere Monster gibt. Mystisches Japan. Wenig kawai, viel gore.
+
+## Die Stadt der Menschen (Zetdelle):
+Ganz Zetdelle ist mit Androiden bevölkert. Ganz Zetdelle? Nein, eine kleine Gruppe unbeugsamer Menschen leistet den Metallwesen erbittert Widerstand... Just kidding, sie leben nur, weil sie von den Androiden als Gäste toleriert werden. Jeder Mensch, der eine Botschaft der Androiden in einem Land erreicht, genießt ihr Gastrecht und darf in die Stadt der Menschen kommen. Jeder darf sie auch jederzeit verlassen, und wird dann vor die Botschaft gebracht, von der er kam. Und meistens gibt es ja einen GRUND, warum man in eine Botschaft flüchtet... Menschen, die in der Stadt der Menschen geboren werden, dürfen die Stadt nicht verlassen, außer mit ihren Eltern, oder sich eine Botschaft aussuchen, wenn die Eltern verstorben sind. Oh, und Kameras. Überall. Alle Verbrechen werden erkannt. Denken zumindest die Androiden. Und die meisten Verbrechen verwirken das Gastrecht der Verbrecher. Dann sind sie für die Androiden vogelfrei. Und die Cyborgwache an der Küste benötigt immer Verstärkung...
+
+## Texas ([Nordamerika]):
+Bei all der Vorgeschichte muss es einen Verlierer geben. Es ist [Nordamerika]. Und in Texas, wo man aus Überlieferungen noch den alten Namen des Gebietes kennt, kämpft man täglich ums Überleben. Gesindel, Mutanten, sonstige Kreaturen, die einen töten wollen, das alles gibt es hier. Fallout vom Feinsten.
+
+## Tesland (Ihdurchma):
+Was wäre, wenn Nikola Tesla nicht in Osteuropa versauert wäre, sondern in Großbritannien hunderte Jahre vorher geboren wäre, wo sein Genie anerkannt werden würde? Tesland ist das Erbe eines AU-Teslas, das über Steam Punk und freie Elektrizität verfügt. Und jeder, der Macht hat, kann sie durch ein geschicktes Wahlsystem schnell wieder verlieren. Es ist das fortschrittlichste Land der Erde, und damit das auch so bleibt, wird alles von außerhalb der Inseln mit den Railguns auch außerhalb gehalten. Niemand kommt nach Tesland, niemand verlässt Tesland. Lasst uns in Ruhe, dann lassen wir euch auch in Ruhe. Kein Herrscher Ihdurchma mag Tesland. Wer hat schon Spaß an einem undurchsichtigem Land, das sämtliche Annäherungsversuche auf unmögliche Entfernungen beseitigt? Aber wie lange kann ein Land wirklich isoliert bleiben? Und wer ist wirklich dafür verantworlich, dass das Wahlsystem auch so funktioniert wie versprochen? Habe ich erwähnt, dass ein Computer berechnet, wer wieviel Macht hat?
+
+
+Würde man versuchen, die zeitliche Epoche einzuordnen, so befänden wir uns viele tausende Jahre in der Zukunft, was aber die Welt nicht automatisch zu einer Scifi-Welt macht.

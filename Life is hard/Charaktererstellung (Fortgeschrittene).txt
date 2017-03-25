@@ -1,0 +1,29 @@
+Man beachte hierzu die Setting-spezifischen Vorgaben und die Hausregeln des GMs
+
+## Verbote:
+* kein Skill über 20
+* maximum SL für Skills ist Attribut+10
+* alle exotischen und Super-Advantages brauchen GM-Erlaubnis
+* keine magischen Wesen in nicht-magischem Setting
+* Name des Charakters muss zum Setting passen, sonst GM-Erlaubnis
+* Alter des Charakters muss zwischen 15 und 65 Jahre alt sein (je nach Setting hat das Alter unterschiedlichen Einfluss auf den Spielverlauf)
+* der erstellte Charakter muss vom Grunde her teamfähig sein, zu starke Assozialität bzw. Einzelgängertum kann vom GM verboten werden (dies verbietet z.B. "Megalomania")
+* "Extra Life" kann nicht von den CPs genommen werden
+
+## Allgemeine Vorgaben:
+* Ein Charakter bekommt 35+Alter CPs, also zwischen 50 und 10 (das ist die Grund-Anzahl CPs)
+* Bedenkt, dass Charaktere über 50 jedes Jahr Attribut-Punkte verlieren können. Sie altern halt.
+* Das Disadvantage-Limit ist (Grund-Anzahl CPs)/2, alles andere macht den Charakter wertloser. Man muss keine Disadvantages nehmen.
+* Quirks zählen nicht zum Disadvantage-Limit, es sind aber höchstens 7 erlaubt
+* die Disadvantages "Life is hard" und "Life is not easy" zählen nicht zum Disadvantage-Limit
+
+## Pflicht-Disadvantages:
+* "Pacifism: Relucant Killer" (-5) oder einen stärkeren Pacifism, da vom Grunde auf keiner, der in der Welt leben will, einfach so Leute tötet
+* "Life is hard" (-20)
+* ein Like-Quirk und ein Dislike-Quirk, denn eure Charaktere sind Menschen mit Vorlieben etc.
+
+## Biographie:
+* mindestens 3 Sätze über die letzten 10 Jahre des Lebens des Charakters.
+* eine Liste von mindestens 5 Charaktereigenschaften die der Charakter hat oder explizit nicht hat (mindestens 2 "hat" und 1 "nicht hat")
+* alles, was ihr nicht in die Bio schreibt, kann der GM diktieren, wie es ihm gefällt
+* wenn ihr versucht, vorzusorgen und so schlau seid, dem GM das zu sagen, wird er eine Lücke finden

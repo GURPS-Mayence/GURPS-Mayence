@@ -1,0 +1,7 @@
+Zusätzlich zur Base-Charakterstellung gilt:
+
+* kein Aussehen, das den Charakter zur Zielscheibe des NRD macht (GM-Bewertung)
+* das Aussehen entspricht realen Menschen abgesehen davon, dass (natürliche) Haar-, Augen- und Hautfarbe frei (einfarbig) wählbar sind
+* sollte der Charakter über eine ungewöhnliche Kombination dieser 3 Farben verfügen (GM-Bewertung), bekommt er den Quirk "Distinctive Features" (zählt zum Quirk-Limit)
+* jeder Charakter über 20 Jahre muss einen Beruf haben (Student zählt auch)
+* Verbotene Berufe/Berufsgruppen: Staatsdiener ausgenommen Lehrer (d.h. Bürokrat, Adliger, Polizist, Soldat, Programmierer oder Geheimdienstler etc.), wobei der Charakter die Ambition haben darf, einer zu werden.

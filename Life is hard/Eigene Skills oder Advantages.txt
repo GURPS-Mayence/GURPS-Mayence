@@ -1,0 +1,27 @@
+# Life is hard
+Disadvantage -20
+Each time the GM tells you (but max once per session and (in-game week or adventure period)), throw 3D. 10 is considered neutral, anything below is positive, anything above negative. Your GM will handle the consequences. You get a +1 modifier on your roll modifier for each (!) positive roll you made in the past since the first roll or your last negative roll (whichever is earlier). You can spent 1 CP per +1 modifier and roll to remove it for this roll only.
+
+Das "advantage period" heißt, dass wenn wir z.B. 3 Sessions lang ohne time skip ein Abenteuer erleben, dass ich den Disadvantage nicht jede Session invoken kann. Und wenn in der nächsten Session es drei Tage später ist und ich den Disadvantage in einer der drei vorherigen Sessions invoked habe, darf ich ihn nicht in dieser Session invoken. Zumindest für den jeweiligen Charakter.
+
+Rechenbeispiel: Jemand hat +2 modifier auf den Wurf, setzt 2 CPs ein (die sind dann weg, das ist eure Schicksalswährung!) würfelt eine 9 und hat was leicht positives anstatt was leicht negatives (11=9+2). Dafür ist der nächste Roll dann aber +3 statt +0. Wenn der Spieler dann keine CPs einsetzt und eine 15 würfelt (was schon schlecht ist, aber nicht SOOO schlecht), dann hat er gelitten. 17 oder 18 zu würfeln ist sehr, sehr schlecht für euren Charakter, dann geht die Herausforderung erst richtig los. Und man kann diese miesen Ergebnisse mit einer 3 oder 4 wieder neutralisieren. Im Gegensatz zu den anderen positiven Ergebnissen, können 3 oder 4 auch aufgehoben werden, um so einen Worst Case abzufangen.
+
+Wichtig! Da das ein Player-Wurf ist, ist darauf Luck und Superluck anwendbar.
+
+# I'm glad it's not me
+Advantage +1 per Level
+Hier wandern die CPs rein, die benutzt worden, um den "Life is hard"-Modifier zu verringern.
+
+# Life is not easy
+Disadvantage -10
+Each time the GM tells you (but max once per session and (in-game week or adventure period)), throw 3D. 10 is considered neutral, anything below is positive, anything above negative. Your GM will handle the consequences.
+
+Abgespeckte Version von "Life is hard". Es bleibt ein Disadvantage, da mit 10 neutral und 11 bereits negativ es insgesamt wahrscheinlicher ist, etwas schlechtes zu würfeln.
+
+# Oh God why?
+Advantage 0 per Level
+Zeigt die CPs, die Leute geschenkt bekommen fürs Erkennen von Wörtern in der Welt. Zählt nicht zum Disadvantage-Limit.
+
+# Biography
+Advantage 0 per Level
+Zeigt die CPs, die ein Charakter für seine Biographie bekommen hat.

@@ -16,7 +16,7 @@ Man beachte hierzu die Setting-spezifischen Vorgaben und die Hausregeln des GMs
 * jeder Charakter bekommt ein "Extra Life" geschenkt
 * Das Disadvantage-Limit ist (Grund-Anzahl CPs)/2, alles andere macht den Charakter wertloser. Man muss keine Disadvantages nehmen.
 * Quirks zählen nicht zum Disadvantage-Limit, es sind aber höchstens 7 erlaubt
-* die Disadvantages "Life is hard" und "Life is not easy" zählen nicht zum Disadvantage-Limit
+* die Pflicht-Disadvantages zählen nicht zum Disadvantage-Limit (Quirks generell nichr)
 
 ## Pflicht-Disadvantages:
 * "Pacifism: Relucant Killer" (-5) oder einen stärkeren Pacifism, da vom Grunde auf keiner, der in der Welt leben will, einfach so Leute tötet

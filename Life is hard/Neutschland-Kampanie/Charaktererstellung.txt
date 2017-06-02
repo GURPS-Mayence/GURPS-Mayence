@@ -1,7 +1,30 @@
-Zusätzlich zur Base-Charakterstellung gilt:
+# Zusätzlich zur Base-Charakterstellung gilt:
 
 * kein Aussehen, das den Charakter zur Zielscheibe des NRD macht (GM-Bewertung)
-* das Aussehen entspricht realen Menschen abgesehen davon, dass (natürliche) Haar-, Augen- und Hautfarbe frei (einfarbig) wählbar sind
-* sollte der Charakter über eine ungewöhnliche Kombination dieser 3 Farben verfügen (GM-Bewertung), bekommt er den Quirk "Distinctive Features" (zählt zum Quirk-Limit)
+* das Aussehen entspricht realen Menschen abgesehen davon, 
+dass (natürliche) Haar-, Augen- und Hautfarbe frei (einfarbig) wählbar sind
+* sollte der Charakter über eine ungewöhnliche Kombination dieser 3 Farben 
+verfügen (GM-Bewertung), bekommt er den Quirk "Distinctive Features" 
+(zählt zum Quirk-Limit)
 * jeder Charakter über 20 Jahre muss einen Beruf haben (Student zählt auch)
-* Verbotene Berufe/Berufsgruppen: Staatsdiener ausgenommen Lehrer (d.h. Bürokrat, Adliger, Polizist, Soldat, Programmierer oder Geheimdienstler etc.), wobei der Charakter die Ambition haben darf, einer zu werden.
+* Verbotene Berufe/Berufsgruppen: Staatsdiener ausgenommen Lehrer 
+(d.h. Bürokrat, Adliger, Polizist, Soldat, Programmierer oder Geheimdienstler 
+etc.), wobei der Charakter die Ambition haben darf, einer zu werden.
+
+###
+
+Folgender Abschnitt ist zur grundlegenden Charakterstellung nicht notwendig,
+sollte aber im Verlaufe des Spiels beachtet werden, damit der GM gleiche
+Voraussetzungen für alle ermöglichen kann.
+
+# Beantworte folgende Fragen zu deinem Charakter!
+(wenn du es nicht tust, hat der GM freie Wahl)
+02.06.2017:
+* Welchen Gegenstand bei sich zuhause fasst dein Charakter sehr oft an?
+* Welchen Gegenstand bei sich zuhause fasst dein Charakter sehr selten an?
+* Womit arbeitet dein Charakter aufgrund seiner Professur häufig?
+(Bsp Joe: Tastatur am PC auf Arbeit, Kugelschreiber für kleine Notizen)
+* Was ist das Lieblingsessen deines Charakters?
+* Was ist die Lieblingsfarbe deines Charakters?
+* Gibt es in der Kneipe eine Person, auf die dein Charakter (heimlich) 
+gestanden hat oder immer noch steht? (einschließlich Player-Charaktere)
